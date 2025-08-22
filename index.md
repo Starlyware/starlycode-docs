@@ -7,15 +7,16 @@ Welcome to the official documentation of **StarlyCode Studio**, a modern source 
 ---
 
 ## Table of Contents
-- [About](#about)  
-- [Features](#features)  
-- [Supported Languages](#supported-languages)  
-- [Installation](#installation)  
-- [Getting Started](#getting-started)  
-- [Keyboard Shortcuts](#keyboard-shortcuts)  
-- [Documentation Versions](#documentation-versions)  
-- [License](#license)  
-- [Contact](#contact)  
+- [About](#about)
+- [Features](#features)
+- [Supported Languages](#supported-languages)
+- [Installation](#installation)
+- [Getting Started](#getting-started)
+- [Keyboard Shortcuts](#keyboard-shortcuts)
+- [Sample Projects](#sample-projects)
+- [Documentation Versions](#documentation-versions)
+- [License](#license)
+- [Contact](#contact)
 
 ---
 
@@ -24,25 +25,25 @@ Welcome to the official documentation of **StarlyCode Studio**, a modern source 
 **StarlyCode Studio** (often referred to as *StarlyCode*) is a proprietary editor focused on simplicity, speed, and productivity.  
 It supports syntax highlighting, autocomplete, snippets, and multi-file management within a single workspace.
 
-- **First release:** September 12, 2023  
-- **Latest version:** 1.0.6 (November 19, 2024)  
-- **Developer:** Starlyware, founded by Gianluca Grasso  
-- **Operating System:** Microsoft Windows  
-- **Programming languages used:** C#, Visual Basic .NET  
-- **License:** Proprietary  
-- **Supported languages:** English, Italian  
+- **First release:** September 12, 2023
+- **Latest version:** 1.0.6 (November 19, 2024)
+- **Developer:** Starlyware, founded by Gianluca Grasso
+- **Operating System:** Microsoft Windows
+- **Programming languages used:** C#, Visual Basic .NET
+- **License:** Proprietary
+- **Supported languages:** English, Italian
 - **Official Website:** [starlycode.starlyware.com](https://www.starlyware.com/products/starlycode/)
 
 ---
 
 ## Features
 
-- Syntax highlighting for multiple web languages  
-- Code folding for better navigation  
-- Search and replace with **regular expressions**  
-- Multi-file tabbed interface  
-- Snippets and autocomplete for faster coding  
-- Project creation with auto-generated solution files  
+- Syntax highlighting for multiple web languages
+- Code folding for better navigation
+- Search and replace with **regular expressions**
+- Multi-file tabbed interface
+- Snippets and autocomplete for faster coding
+- Project creation with auto-generated solution files
 
 ---
 
@@ -50,12 +51,12 @@ It supports syntax highlighting, autocomplete, snippets, and multi-file manageme
 
 As of version **1.0.6**, StarlyCode Studio supports:
 
-- HTML  
-- CSS  
-- JavaScript  
-- PHP  
-- SQL  
-- XML  
+- HTML
+- CSS
+- JavaScript
+- PHP
+- SQL
+- XML
 
 ---
 
@@ -63,11 +64,11 @@ As of version **1.0.6**, StarlyCode Studio supports:
 
 You can install StarlyCode Studio in two ways:
 
-1. **From the Microsoft Store**  
-   [👉 Download from Microsoft Store](https://apps.microsoft.com/detail/XP99J6HDW92BQS)  
+1. **From the Microsoft Store**
+   [👉 Download from Microsoft Store](https://apps.microsoft.com/detail/XP99J6HDW92BQS)
 
-2. **From the official website**  
-   [👉 starlycode.starlyware.com](https://www.starlyware.com/products/starlycode/)  
+2. **From the official website**
+   [👉 starlycode.starlyware.com](https://www.starlyware.com/products/starlycode/)
 
 ---
 
@@ -75,11 +76,11 @@ You can install StarlyCode Studio in two ways:
 
 After installing StarlyCode Studio:
 
-1. Launch the application from the Windows Start menu.  
-2. Create a new project (`File → New Project`) or open an existing one (`File → Open → Project...`).  
-3. Start coding — syntax highlighting, autocomplete, and snippets will be enabled automatically.  
+1. Launch the application from the Windows Start menu.
+2. Create a new project (`File → New Project`) or open an existing one (`File → Open → Project...`).
+3. Start coding — syntax highlighting, autocomplete, and snippets will be enabled automatically.
 
-👉 For detailed tutorials, see the **[User Guide](/guide/)** (coming soon).  
+👉 For detailed tutorials, see the **[User Guide](/guide/)** (coming soon).
 
 ---
 
@@ -101,23 +102,32 @@ After installing StarlyCode Studio:
 
 ---
 
+## Sample Projects
+
+To help you get started quickly, we provide **sample web projects** created with StarlyCode Studio.
+These projects demonstrate best practices and showcase how to structure your code inside the editor.
+
+👉 [StarlyCode Projects Repository](https://github.com/Starlyware/starlycode-projects)
+
+---
+
 ## Documentation Versions
 
-- [English Documentation (current)](/)  
-- [🇮🇹 Italian Documentation](/it/)  
+- [English Documentation (current)](/)
+- [🇮🇹 Italian Documentation](/it/)
 
 ---
 
 ## License
 
-StarlyCode Studio is distributed under a **proprietary license**.  
+StarlyCode Studio is distributed under a **proprietary license**.
 All rights reserved © Starlyware.
 
 ---
 
 ## Contact
 
-For support, questions, or feedback:  
+For support, questions, or feedback:
 
-📧 Email: [apps@starlyware.com](mailto:apps@starlyware.com)  
-🌐 Website: [starlyware.com](https://www.starlyware.com)  
+📧 Email: [apps@starlyware.com](mailto:apps@starlyware.com)
+🌐 Website: [starlyware.com](https://www.starlyware.com)
