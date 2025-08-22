@@ -113,8 +113,8 @@ These projects demonstrate best practices and showcase how to structure your cod
 
 ## Documentation Versions
 
-- [English Documentation (current)](/)
-- [🇮🇹 Italian Documentation](/it/)
+- [English Documentation (current)](https://starlyware.github.io/starlycode-docs/)
+- [🇮🇹 Italian Documentation](https://starlyware.github.io/starlycode-docs/it/)
 
 ---
 
