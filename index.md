@@ -2,7 +2,7 @@
 
 Welcome to the official documentation of **StarlyCode Studio**, a modern source code editor for web languages, developed by [Starlyware](https://www.starlyware.com) for Microsoft Windows.
 
-![StarlyCode Studio Screenshot](https://www.starlyware.com/assets/starlycode-screenshot.png)
+![StarlyCode Studio Screenshot](https://www.starlyware.com/files/images/starlycode/hero-img.png)
 
 ---
 
