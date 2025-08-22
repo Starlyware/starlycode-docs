@@ -6,6 +6,19 @@ Welcome to the official documentation of **StarlyCode Studio**, a modern source 
 
 ---
 
+## Table of Contents
+- [About](#about)  
+- [Features](#features)  
+- [Supported Languages](#supported-languages)  
+- [Installation](#installation)  
+- [Getting Started](#getting-started)  
+- [Keyboard Shortcuts](#keyboard-shortcuts)  
+- [Documentation Versions](#documentation-versions)  
+- [License](#license)  
+- [Contact](#contact)  
+
+---
+
 ## About
 
 **StarlyCode Studio** (often referred to as *StarlyCode*) is a proprietary editor focused on simplicity, speed, and productivity.  
@@ -29,7 +42,7 @@ It supports syntax highlighting, autocomplete, snippets, and multi-file manageme
 - Search and replace with **regular expressions**  
 - Multi-file tabbed interface  
 - Snippets and autocomplete for faster coding  
-- Project creation with auto-generated solution files
+- Project creation with auto-generated solution files  
 
 ---
 
@@ -42,7 +55,7 @@ As of version **1.0.6**, StarlyCode Studio supports:
 - JavaScript  
 - PHP  
 - SQL  
-- XML
+- XML  
 
 ---
 
@@ -62,29 +75,29 @@ You can install StarlyCode Studio in two ways:
 
 After installing StarlyCode Studio:
 
-1. Launch the application from the Windows Start menu.
-2. Create a new project or open an existing file (`File → Open → Project...`).
-3. Start coding — syntax highlighting and autocomplete will be enabled automatically.
+1. Launch the application from the Windows Start menu.  
+2. Create a new project (`File → New Project`) or open an existing one (`File → Open → Project...`).  
+3. Start coding — syntax highlighting, autocomplete, and snippets will be enabled automatically.  
 
-👉 For detailed tutorials, see the **[User Guide](/guide/)** (coming soon).
+👉 For detailed tutorials, see the **[User Guide](/guide/)** (coming soon).  
 
 ---
 
 ## Keyboard Shortcuts
 
-| Action                   | Shortcut            |
-|--------------------------|--------------------|
-| New Project              | `Ctrl + N`         |
-| New File                 | `Ctrl + Shift + N` |
-| Open Project             | `Ctrl + O`         |
-| Save File                | `Ctrl + S`         |
-| Save All                 | `Ctrl + Shift + S` |
-| Go to...                 | `Ctrl + G`         |
-| Find                     | `Ctrl + F`         |
-| Replace                  | `Ctrl + H`         |
-| Run/Preview HTML         | `F5`               |
-| Enable/disable Web Server| `Ctrl + W`         |
-| Enable/disable Auto Save | `Ctrl + Alt + S`   |
+| Action                    | Shortcut            |
+|----------------------------|--------------------|
+| New Project                | `Ctrl + N`         |
+| New File                   | `Ctrl + Shift + N` |
+| Open Project               | `Ctrl + O`         |
+| Save File                  | `Ctrl + S`         |
+| Save All                   | `Ctrl + Shift + S` |
+| Go to...                   | `Ctrl + G`         |
+| Find                       | `Ctrl + F`         |
+| Replace                    | `Ctrl + H`         |
+| Run/Preview HTML           | `F5`               |
+| Enable/Disable Web Server  | `Ctrl + W`         |
+| Enable/Disable Auto Save   | `Ctrl + Alt + S`   |
 
 ---
 
