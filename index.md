@@ -16,7 +16,7 @@ It supports syntax highlighting, autocomplete, snippets, and multi-file manageme
 - **Developer:** Starlyware, founded by Gianluca Grasso  
 - **Operating System:** Microsoft Windows  
 - **Programming languages used:** C#, Visual Basic .NET  
-- **License:** Proprietary
+- **License:** Proprietary  
 - **Supported languages:** English, Italian  
 - **Official Website:** [starlycode.starlyware.com](https://www.starlyware.com/products/starlycode/)
 
@@ -55,6 +55,36 @@ You can install StarlyCode Studio in two ways:
 
 2. **From the official website**  
    [👉 starlycode.starlyware.com](https://www.starlyware.com/products/starlycode/)  
+
+---
+
+## Getting Started
+
+After installing StarlyCode Studio:
+
+1. Launch the application from the Windows Start menu.
+2. Create a new project or open an existing file (`File → Open → Project...`).
+3. Start coding — syntax highlighting and autocomplete will be enabled automatically.
+
+👉 For detailed tutorials, see the **[User Guide](/guide/)** (coming soon).
+
+---
+
+## Keyboard Shortcuts
+
+| Action                   | Shortcut            |
+|--------------------------|--------------------|
+| New Project              | `Ctrl + N`         |
+| New File                 | `Ctrl + Shift + N` |
+| Open Project             | `Ctrl + O`         |
+| Save File                | `Ctrl + S`         |
+| Save All                 | `Ctrl + Shift + S` |
+| Go to...                 | `Ctrl + G`         |
+| Find                     | `Ctrl + F`         |
+| Replace                  | `Ctrl + H`         |
+| Run/Preview HTML         | `F5`               |
+| Enable/disable Web Server| `Ctrl + W`         |
+| Enable/disable Auto Save | `Ctrl + Alt + S`   |
 
 ---
 
