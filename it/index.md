@@ -17,10 +17,10 @@ Progettato per semplicità e velocità, **StarlyCode** è ideale per sviluppator
 
 ## Indice dei Contenuti
 - [Cos’è StarlyCode Studio](#informazioni)  
-- [Funzionalità Principali](#funzionalità)  
+- [Funzionalità Principali](#funzionalità-principali)  
 - [Linguaggi Supportati](#linguaggi-supportati)  
-- [Installazione su Windows](#installazione)  
-- [Guida Rapida all’Uso](#primi-passi)  
+- [Installazione su Windows](#installazione-su-windows)  
+- [Guida Rapida all’Uso](#guida-rapida)  
 - [Scorciatoie da Tastiera](#scorciatoie-da-tastiera)  
 - [Progetti di Esempio](#progetti-di-esempio)  
 - [Versioni della Documentazione](#versioni-della-documentazione)  
@@ -80,7 +80,7 @@ Puoi installare StarlyCode Studio in due modi:
 
 ---
 
-## Guida Rapida all’Uso
+## Guida Rapida
 
 Dopo l’installazione:
 
