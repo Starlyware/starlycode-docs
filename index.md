@@ -121,8 +121,8 @@ We provide **sample web projects** to demonstrate structure, best practices, and
 
 ## Documentation Versions
 
-- [English Documentation](https://starlyware.github.io/starlycode-docs/)
-- [🇮🇹 Italian Documentation (current)](https://starlyware.github.io/starlycode-docs/it/)
+- [English Documentation (current)](https://starlyware.github.io/starlycode-docs/)
+- [🇮🇹 Italian Documentation](https://starlyware.github.io/starlycode-docs/it/)
 
 ---
 
